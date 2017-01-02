@@ -1,0 +1,16 @@
+{
+  "name": "lastfm-spotify-trackset",
+  "authors": [
+    "Christian Battaglia <christian.d.battaglia@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "angular": "^1.5.9",
+    "angular-bootstrap": "^2.3.0",
+    "bootstrap": "^3.3.7",
+    "d3": "^3.5.5",
+    "lodash": "^4.17.2",
+    "angular-ui": "^0.4.0"
+  }
+}

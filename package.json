@@ -1,0 +1,37 @@
+{
+  "name": "lastfm-spotify-trackset",
+  "version": "0.1.0",
+  "description": "fetch user recents from lastfm and make a tracklist widget out of them",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "2.1.4",
+    "compression": "1.6.2",
+    "errorhandler": "1.4.3",
+    "express": "4.14.0",
+    "express-slash": "2.0.1",
+    "lodash": "4.17.2",
+    "pug": "2.0.0-beta6",
+    "request": "2.74.0"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.2",
+    "del": "2.2.2",
+    "gulp": "git+https://github.com/gulpjs/gulp.git#4.0",
+    "gulp-clean-css": "2.0.13",
+    "gulp-concat": "2.6.1",
+    "gulp-concat-css": "2.3.0",
+    "gulp-hub": "0.8.0",
+    "gulp-imagemin": "3.1.1",
+    "gulp-nodemon": "2.2.1",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "2.3.2",
+    "gulp-uglify": "2.0.0",
+    "gulp-util": "3.0.7",
+    "streamqueue": "1.1.1"
+  },
+  "author": "christian.d.battaglia@gmail.com",
+  "license": "MIT"
+}
