@@ -1,3 +1,8 @@
+/*
+ they're new keys I made for this project so no
+ worries about this being in the repo
+ */
+
 module.exports = {
     lastfm: {
         applicationName: "FIXD",
